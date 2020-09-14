@@ -6,9 +6,9 @@
     
  ## Current projects
 
- * Hello World: Java console application
+ * [Hello World: Java console application](https://github.com/John-Jaramillo/deep-dive-hello-world-ij)
 
- * Hello World: Android app
+ * [Hello World: Android app](https://github.com/John-Jaramillo/android-hello-world)
 
  ## Links
 
