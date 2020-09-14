@@ -1,1 +1,7 @@
-# John-Jaramillo.github.io
+ # John Jaramillo
+    
+ ## Introduction
+    
+ ## Current projects
+
+ ## Links
