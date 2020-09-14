@@ -11,3 +11,5 @@
  * Hello World: Android app
 
  ## Links
+
+ * [LinkedIn](https://www.linkedin.com/in/john-jaramillo-5172521b3/)
